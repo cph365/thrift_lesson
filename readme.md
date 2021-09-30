@@ -1,3 +1,1 @@
-#### Linux基础课
-
-#### 6. thrift教程
+#### Acwing Linux基础课 thrift教程
